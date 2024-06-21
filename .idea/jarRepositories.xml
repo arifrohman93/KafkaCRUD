@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="internal" />
+      <option name="name" value="Internal Central Repository" />
+      <option name="url" value="http://10.240.39.141/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty" />
+      <option name="name" value="ThirdParty Central Repository" />
+      <option name="url" value="http://10.240.39.141/nexus/content/groups/thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="Internal Snapshot Repository" />
+      <option name="url" value="http://10.240.39.141/nexus/repository/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="npmjs" />
+      <option name="name" value="Internal Snapshot Repository" />
+      <option name="url" value="http://10.240.39.141/nexus/repository/npmjs" />
+    </remote-repository>
+  </component>
+</project>
